@@ -100,7 +100,7 @@ body {
 .price h5 {
     font-family: 'Fraunces', sans-serif;
     display: flex;
-    text-decoration-line: line-through;
+    text-decoration: line-through;
     color: hsl(228, 12%, 48%);
     margin-left: 20px;
 }
