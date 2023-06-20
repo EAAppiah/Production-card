@@ -65,7 +65,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     text-transform: uppercase;
-    opacity: 80%;
+    color: hsl(228, 12%, 48%);
     letter-spacing: 5px;
 }
 
